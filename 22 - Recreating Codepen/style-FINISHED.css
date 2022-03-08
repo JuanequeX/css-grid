@@ -1,5 +1,7 @@
 :root {
   --grey: #343436;
+  --yellow: #ffc600;
+  --black: #272727;
 }
 html {
   box-sizing: border-box;
